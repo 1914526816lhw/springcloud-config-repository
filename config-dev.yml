@@ -1,1 +1,2 @@
-name=hello world
+config:
+  info: "master branch,springcloud-config-repository/config-dev.yml version=1"
